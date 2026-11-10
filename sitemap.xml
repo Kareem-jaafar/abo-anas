@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://abo-anas.online/</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/1.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/2.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/3.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/4.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/5.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/6.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/7.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/8.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://abo-anas.online/garage-doors.html</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/1.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/7.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/8.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://abo-anas.online/roller-doors.html</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/2.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/5.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://abo-anas.online/automatic-gates.html</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/3.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/4.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://abo-anas.online/motors-and-spare-parts.html</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/5.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/7.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/8.webp</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://abo-anas.online/industrial-doors.html</loc>
+    <image:image><image:loc>https://abo-anas.online/assets/images/6.webp</image:loc></image:image>
+    <image:image><image:loc>https://abo-anas.online/assets/images/2.webp</image:loc></image:image>
+  </url>
+</urlset>
